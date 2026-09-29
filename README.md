@@ -193,7 +193,7 @@ computadora la entienda al momento.
 
 ---
 
-### 23.
+### 23. Depurador
 Depurador (Debugger): Un depurador es una herramienta que ayuda a los 
 programadores a encontrar, revisar y corregir errores o fallos en un programa para 
 asegurar que funcione correctamente en cualquier dispositivo. Ejemplo: un escáner de 
